@@ -1,0 +1,16 @@
+.home-page{
+}
+
+.musician-list{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 0 auto;
+    transition: all 0.7s ease-in-out;
+}
+
+.musician-card-container{
+    margin: 15px 15px;
+    width: 300px;
+}

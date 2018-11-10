@@ -1,0 +1,75 @@
+{
+    "musicians": [
+
+        {
+            "name": "Kendrick Lamar",
+            "id": 2,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://cdn.vox-cdn.com/thumbor/OFS1F_aktwo8tfoN3L1JiO_0kPI=/0x0:1000x1000/1200x800/filters:focal(416x29:576x189)/cdn.vox-cdn.com/uploads/chorus_image/image/59411025/ada232f9f870cf829171fa8990916aa9.1000x1000x1.0.jpg",
+            "likes": 0
+        }, 
+        {
+            "name": "Lianne La Havas",
+            "id": 3,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://ichef.bbci.co.uk/images/ic/960x540/p02zbg9j.jpg",
+            "likes": 0
+        },
+        {
+            "name": "Bonobo",
+            "id": 5,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://s3.amazonaws.com/exposure-media/production/users/44266/avatar/original-1417700604.jpg?w=150&h=150&fit=crop&q=95&fm=pjpg&auto=format",
+            "likes": 0
+        },
+        {
+            "name": "Berry Sakharof",
+            "id": 6,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://i1.wp.com/columbusmusicmagazine.com/wp-content/uploads/2016/05/maxresdefault.jpg?resize=1280%2C720",
+            "likes": 0
+        },
+        {
+            "name": "Gilad Kahana",
+            "id": 4,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "http://hamonvolume.com/wp-content/uploads/2015/07/%D7%92%D7%9C%D7%A2%D7%93-%D7%9B%D7%94%D7%A0%D7%90-%D7%A8%D7%95%D7%97%D7%91.jpg",
+            "likes": 0
+        },
+        {
+            "name": "Anderson Paak",
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://2ab9pu2w8o9xpg6w26xnz04d-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/anderson-paak-press-1200x632.jpg",
+            "likes": 0
+        }, 
+        {
+            "name": "Alt-J",
+            "id": 7,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://i1.wp.com/nialler9.com/wp-content/uploads/2018/07/altj_18_1024-1024x576.jpg?fit=1024%2C576&ssl=1",
+            "likes": 0
+        },
+        {
+            "name": "Garden city movement",
+            "id": 8,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://www.magneticmag.com/.image/t_share/MTUzMDQ2MTAyMDAwNTQzMzUy/garden-city-movement.jpg",
+            "likes": 0
+        },
+        {
+            "name": "Nujabes",
+            "id": 9,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://i.ytimg.com/vi/h6f9XTxjenM/maxresdefault.jpg",
+            "likes": 0
+        },
+        {
+            "name": "madvillain",
+            "id": 10,
+            "description": "Lorem ipsum dolor sit amet, ad pro diam doctus fastidii, id mei eleifend maluisset. Partem option labores duo ne, ex porro ullum persius pro. Vide sapientem qualisque ea sed, est te minim causae pertinax. Te mea dicant nominavi, at pri consequuntur definitionem. Sea id oratio praesent.",
+            "imageURL": "https://i.ytimg.com/vi/z9mZkc2RPOU/maxresdefault.jpg",
+            "likes": 0
+        }
+    ]
+} 

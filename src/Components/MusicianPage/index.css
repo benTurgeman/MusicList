@@ -1,0 +1,52 @@
+.musician-page{
+    padding: 0 10%;
+}
+
+.musician-page-image-conatiner{
+    /* width: 80%; */
+    max-width: 1020px;
+    margin: 0 auto;
+}
+
+.musician-page-content-header{
+    position: relative;
+    margin: 10px 0;
+    font-size: 28px;
+}
+
+.musician-page-content-header-title{
+    /* font-size: 28px; */
+    text-align: center; 
+}
+
+.likes-counter{
+    position: absolute;
+    right: 0px;
+    height: inherit;
+    top: 0px;
+}
+
+.musician-page-content-actions{
+    margin: 20px 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.musician-page-button{
+    margin: 0 0 0 8px;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .musician-page{
+        padding: 0;
+    }
+
+    .musician-page-content{
+        padding: 0 10%;
+    }
+
+    .musician-page-content-header-title{
+        text-align: left;
+    }
+}
