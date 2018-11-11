@@ -2,14 +2,15 @@
   "name": "music",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benturgeman.github.io/MusicList",
+  "homepage": "https://benturgeman.github.io/MusicList/",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-redux": "^5.1.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "rimraf": "^2.6.2"
   },
   "scripts": {
     "start": "react-scripts start",
