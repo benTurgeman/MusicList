@@ -27,7 +27,7 @@ class Home extends Component {
 
     navigateTo = (id) =>  {
         console.log(id)
-        this.props.history.push(`/${id}`)
+        this.props.history.push(`/MusicList/${id}`)
     }
 
     handleMusicianLike = (id) => {

@@ -25,7 +25,7 @@ class MusicianPage extends Component {
     }
 
     navigateBackHome = () => {
-        this.props.history.push('/')
+        this.props.history.push('/MusicList')
     }
 
     handleMusicianLike = () => {
